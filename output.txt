@@ -1,0 +1,2 @@
+        // 開発中はこの行を使ってデバッグ情報を表示し、本番環境ではコメントアウトまたは削除してください
+        // echo "<pre>" . htmlspecialchars(implode("\n", $output)) . "</pre>";

@@ -1,0 +1,4 @@
+pH: 15.0
+DO: 10.0
+Temperature: 20.0
+Salinity: 3.0

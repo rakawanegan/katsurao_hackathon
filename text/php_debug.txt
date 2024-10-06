@@ -1,0 +1,15 @@
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 35, in <module>
+    with open(debug_file_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/xs29345872/globalsteptest.com/public_html/katsurao/../text/suisitsu.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/xs29345872/globalsteptest.com/public_html/katsurao/../text/suisitsu.txt'
+

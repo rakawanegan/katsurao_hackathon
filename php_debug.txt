@@ -1,0 +1,249 @@
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py    
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 26, in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py    
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 26, in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py    
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 26, in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py    
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 26, in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 0.00 27.3 8.5
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.3 8.5 27.3 0.00
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 1 1 1 1
+Output: 1,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 1 1 1 1
+Output: 1,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 1 1 1 1
+Output: 1,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 1 1 1 1
+Output: 1,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 1 1 1 1
+Output: 1,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 8.13 8.5 27.3 0.00
+Output: 0,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 15 10 25 5
+Output: 1,0,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py 15 10 20 3
+Output: 1,0,1,0
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py    
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 26, in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py", line 45, in <module>
+    with open(debug_file_path, 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+

@@ -1,0 +1,29 @@
+/* map.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* ページの高さを画面全体に広げる */
+    margin: 0; /* デフォルトのマージンをリセット */
+}
+
+img {
+    display: block; /* imgタグの下の余白を削除 */
+    max-width: 100%; /* 画像が画面幅を超えないようにする */
+    height: auto; /* アスペクト比を維持 */
+}
+
+/* ボタンホバー時のスタイル */
+area:hover {
+    opacity: 0.7;
+}
+
+/* ボタン領域の視覚化 */
+area {
+    outline: none; /* デフォルトのアウトラインを削除 */
+}
+
+area:focus { /* ボタンにフォーカスした時 (tabキーで移動した場合など) */
+    outline: 2px dashed #007bff; /* 点線で強調表示 */
+}

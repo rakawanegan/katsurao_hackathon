@@ -1,0 +1,66 @@
+/* ヘッダーのスタイル */
+header {
+    background-color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    height: 60px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+nav li {
+    margin: 0 5px;
+}
+
+nav a {
+    display: block;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #e9ecef;
+}
+
+/* スマホ表示時のスタイル */
+@media (max-width: 768px) {
+    
+    nav ul {
+        justify-content: space-between; /* ボタン間のスペースを均等に分配 */
+    }
+
+    nav li {
+        width: 30%; /* ボタンの幅を画面の30%に設定 */
+        margin: 0; /* マージンを削除 */
+    }
+
+    nav a {
+        padding: 10px 5px; /* パディングを調整 */
+        font-size: 0.9em; /* フォントサイズを少し小さく */
+    }
+}

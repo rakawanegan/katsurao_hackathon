@@ -1,0 +1,89 @@
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 ''
+Output: pH: normal (8.13)
+DO: abnormal (0.0)
+Temperature: abnormal (27.3)
+Salinity: abnormal (8.5)
+LINEにメッセージが送信されました。
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '34 \(Unknown User\)'
+Output: pH: normal (8.13)
+DO: abnormal (0.0)
+Temperature: abnormal (27.3)
+Salinity: abnormal (8.5)
+LINEにメッセージが送信されました。
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 ' \(\)'
+Output: pH: normal (8.13)
+DO: abnormal (0.0)
+Temperature: abnormal (27.3)
+Salinity: abnormal (8.5)
+LINEにメッセージが送信されました。
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '1-23 \(\)'
+Output: pH: normal (8.13)
+DO: abnormal (0.0)
+Temperature: abnormal (27.3)
+Salinity: abnormal (8.5)
+LINEにメッセージが送信されました。
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 ' \(\)'
+Output: 0,1,1,1
+
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 ' \(\)'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '3 \(\)'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 'test test bikou hoo! \(\)'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '\(bikou\)test! \(\)'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '5YKZ6ICD44OG44K544OIKGJpa291dGVzdCkhICjkuozlrq7mq7vovJQp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 0.00 27.3 8.5 '5ZCM44GY44GP5YKZ6ICDKGJpa291KeODhuOCueODiCAo5LqM5a6u5qu76LyUKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 'T0NS44Gb44GE44GT44GG44GK44KB44Gn44Go44GG77yBICjkuozlrq7mq7vovJQp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 '5YKZ6ICDdGVzdCAo5LqM5a6u5qu76LyUKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 'dGVzdCAo5LqM5a6u5qu76LyUKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 '44Go44GG44KN44GP44Gm44GZ44GoICjkuozlrq7mq7vovJQp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 '44Gq44KT44GnICjjgZ/jgb7jgZPjgo0p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 'b2tpZW9ub2plICjjgZ/jgb7jgZPjgo0p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.3 8.5 27.3 0.00 '44GK44G+44GL44KT44Gn44GZICjjgZ/jgb7jgZPjgo0p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '44GK44KB44Gn44Go44GG44GU44GW44GE44G+44GZ77yBICjjgZ/jgb7jgZPjgo0p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '5YKZ6ICDVEVTVCAo5LqM5a6u5qu76LyUKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 'dGVzdCAoVW5rbm93biBVc2VyKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '44OG44K544OIIChVbmtub3duIFVzZXIp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 'dGVzdCAoVW5rbm93biBVc2VyKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 1 1 1 1 '77yT5Zue6KiI5ris44GX44G+44GX44Gf44GM5ZCM44GY57WQ5p6c44Gn44GX44GfIChVbmtub3duIFVzZXIp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 1 1 1 1 'dGVzYXQgKFVua25vd24gVXNlcik='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 1 1 1 1 '44Om44O844K256K66KqNIChVbmtub3duIFVzZXIp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 1 1 1 1 '44Om44O844K244OG44K544OIICjkuozlrq7mq7vovJQp'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 1 1 1 1 'a2F0c3VyYW/nlKjjg4bjgrnjg4ggKOOBn+OBvuOBk+OCjSk='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '5Lit5bed44OG44K544OIICjokZvlsL7lpKrpg44p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '5Lit5bed56K66KqN5riI44G/77yIM+WbnuaknOiovO+8iSAo6JGb5bC+5aSq6YOOKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '5Lit5bed56K66KqN5riI44G/77yIM+Wbnua4rOWumu+8iSAo6JGb5bC+5aSq6YOOKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 'bmFrYWdhd2Hnorroqo3muIjjgb/vvIgz5Zue5ris5a6a77yJICjokZvlsL7lpKrpg44p'
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 8.13 8.5 27.3 0.00 '5Lit5bed56K66KqN5riI44G/77yIM+WbnuioiOa4rO+8iSAo6JGb5bC+5aSq6YOOKQ=='
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor.py 15 10 20 3 'TElORSB0ZXN0ICjokZvlsL7lpKrpg44p'
+Output: 

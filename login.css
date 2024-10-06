@@ -1,0 +1,75 @@
+/* viewportの設定を追加 */
+@media screen and (max-width: 480px) { /* 画面幅が480px以下の場合 */
+    input[type="text"],
+    input[type="password"] {
+        font-size: 16px;
+    }
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px; /* 余白を少し広げる */
+    background-color: #f0f0f0;
+    -webkit-text-size-adjust: 100%;
+    /* ベースのフォントサイズを大きくする */
+    font-size: 18px; 
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    /* フォントサイズを少し大きく */
+    font-size: 24px; 
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 8px; /* ラベルと入力欄の間隔を広げる */
+    /* フォントサイズを少し大きく */
+    font-size: 18px;
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 12px; /* paddingを大きくする */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 16px; /* 入力欄の間隔を広げる */
+    width: 100%;
+    box-sizing: border-box;
+    /* フォントサイズを少し大きく */
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    padding: 14px; /* paddingを大きくする */
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    /* フォントサイズを少し大きく */
+    font-size: 18px;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 10px;
+    /* フォントサイズを少し大きく */
+    font-size: 16px;
+}
