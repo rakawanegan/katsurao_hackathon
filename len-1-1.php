@@ -1,0 +1,117 @@
+<?php
+// len-1-1.php
+
+// セッション開始
+session_start();
+
+// ログイン状態の確認
+if (!isset($_SESSION['login']) || $_SESSION['login'] !== true) {
+    // ログインしていない場合は、ログインページにリダイレクト
+    $_SESSION['redirect_url'] = $_SERVER['REQUEST_URI'];
+    header("Location: login.php");
+    exit;
+}
+
+// 最新のCSVファイル名を取得する関数 (システム1用)
+function getLatestCSVForSystem1() {
+    $currentYear = date('Y');
+    $previousYear = $currentYear;
+    $pattern = sprintf('/(%s)-(?:1st|2nd|3rd|4th|5th)-len-1-1\.csv$/', $previousYear . '|' . $currentYear);
+    $files = glob('*.csv');
+    $matchedFiles = array_filter($files, function ($file) use ($pattern) {
+        return preg_match($pattern, $file);
+    });
+    usort($matchedFiles, function ($a, $b) {
+        return filemtime($b) - filemtime($a);
+    });
+    return reset($matchedFiles);
+}
+
+// CSVファイルから最後のPLを取得し、+10した値をデフォルトPLとする
+function getDefaultPL($csv_file) {
+    $lastPL = 0; // 初期値
+    if (file_exists($csv_file)) {
+        $lines = file($csv_file, FILE_IGNORE_NEW_LINES);
+        if (count($lines) > 1) { // ヘッダー行を除く
+            $lastLine = explode(',', $lines[count($lines) - 1]);
+            if (isset($lastLine[0]) && is_numeric($lastLine[0])) {
+                $lastPL = intval($lastLine[0]);
+            }
+        }
+    }
+    return max(10, $lastPL + 10); // 最小値10を保証しつつ、最後のPLに10を加える
+}
+
+$csv_file = getLatestCSVForSystem1();
+$defaultPL = getDefaultPL($csv_file);
+
+// エラーメッセージの初期化
+$errorMessage = "";
+
+// フォームが送信された場合の処理
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $pl = $_POST['pl'];
+    $length = $_POST['length'];
+
+    // バリデーション
+    if (!is_numeric($length) || $length <= 0) {
+        $errorMessage = "体長には正の数字を入力してください。";
+    } else {
+        // ヘッダー行がまだ存在しない場合は書き込む
+        if (!file_exists($csv_file)) {
+            $fp = fopen($csv_file, 'w');
+            fputcsv($fp, ['PL', 'len']);
+            fclose($fp);
+        }
+
+        // データをCSVファイルに追記
+        $fp = fopen($csv_file, 'a');
+        fputcsv($fp, [$pl, $length]);
+        fclose($fp);
+
+        // len_input.php にリダイレクト
+        header("Location: len_input.php");
+        exit;
+    }
+}
+?>
+<!DOCTYPE html>
+<?php
+  session_start();
+  require_once('header.php'); 
+?>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>体長入力</title>
+    <link rel="stylesheet" href="input.css">
+</head>
+<body>
+    <h1>体長入力</h1>
+
+    <?php if (!empty($errorMessage)): ?>
+        <div class="error">
+            <?php echo $errorMessage; ?>
+        </div>
+    <?php endif; ?>
+
+    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+        <div>
+            <label for="pl">PL:</label>
+            <select id="pl" name="pl">
+                <?php
+                for ($i = $defaultPL; $i <= 120; $i += 10) {
+                    echo "<option value='$i'" . ($i === $defaultPL ? " selected" : "") . ">$i</option>";
+                }
+                ?>
+            </select>
+        </div>
+        <div>
+            <label for="length">体長 (mm):</label>
+            <input type="text" id="length" name="length" required>
+        </div>
+        <button type="submit">登録</button>
+    </form>
+</body>
+</html>

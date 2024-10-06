@@ -1,0 +1,633 @@
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [1] => line 26
+    [2] => in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception
+    [3] => another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [4] => line 45
+    [5] => in <module>
+    with open(debug_file_path
+    [6] => 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+)
+
+Has Anomalies: false
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [1] => line 26
+    [2] => in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception
+    [3] => another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [4] => line 45
+    [5] => in <module>
+    with open(debug_file_path
+    [6] => 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+)
+
+Has Anomalies: false
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [1] => line 26
+    [2] => in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception
+    [3] => another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [4] => line 45
+    [5] => in <module>
+    with open(debug_file_path
+    [6] => 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+)
+
+Has Anomalies: false
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [1] => line 26
+    [2] => in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception
+    [3] => another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [4] => line 45
+    [5] => in <module>
+    with open(debug_file_path
+    [6] => 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+)
+
+Has Anomalies: false
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 1
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 0
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 1
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => 1
+    [1] => 0
+    [2] => 1
+    [3] => 0
+)
+
+Has Anomalies: true
+Anomalies: Array
+(
+    [0] => Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [1] => line 26
+    [2] => in <module>
+    ph = float(sys.argv[1])
+               ~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception
+    [3] => another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/AquaReCheck.py"
+    [4] => line 45
+    [5] => in <module>
+    with open(debug_file_path
+    [6] => 'w') as f:
+              ^^^^^^^^^^^^^^^
+NameError: name 'debug_file_path' is not defined
+)
+
+Has Anomalies: false

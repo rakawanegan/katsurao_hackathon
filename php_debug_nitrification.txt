@@ -1,0 +1,46 @@
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.13 0.00 27.3 8.5 1 1 1 1 1 1
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.13 0.00 27.3 8.5 1 1 1 1 1 1
+Output: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+
+Input values: ph=8.13, do=0.00, temperature=27.3, salinity=8.5, nh4=1, no2=1, no3=1, ca=1, al=1, mg=1
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.13 0.00 27.3 8.5 1 1 1 1 1 1
+Output: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+
+Input values: ph=8.13, do=0.00, temperature=27.3, salinity=8.5, nh4=1, no2=1, no3=1, ca=1, al=1, mg=1
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.13 0.00 27.3 8.5 1 1 1 300 1 1
+Output: [0, 1, 1, 1, 0, 1, 1, 0, 1, 1]
+
+Input values: ph=8.13, do=0.00, temperature=27.3, salinity=8.5, nh4=1, no2=1, no3=1, ca=300, al=1, mg=1
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.3 8.5 27.3 0.00      
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py", line 55, in <module>
+    nh4 = float(sys.argv[5])
+                ~~~~~~~~^^^
+IndexError: list index out of range
+
+Input values: ph=8.3, do=8.5, temperature=27.3, salinity=0.00, nh4=, no2=, no3=, ca=, al=, mg=
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.3 8.5 27.3 0.00      
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py", line 55, in <module>
+    nh4 = float(sys.argv[5])
+                ~~~~~~~~^^^
+IndexError: list index out of range
+
+Input values: ph=8.3, do=8.5, temperature=27.3, salinity=0.00, nh4=, no2=, no3=, ca=, al=, mg=
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.3 8.5 27.3 0.00 1 2 3 4 5 6
+Output: [1, 0, 1, 1, 0, 0, 1, 1, 1, 1]
+
+Input values: ph=8.3, do=8.5, temperature=27.3, salinity=0.00, nh4=1, no2=2, no3=3, ca=4, al=5, mg=6
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 8.13 8.5 27.3 0.00      
+Output: Traceback (most recent call last):
+  File "/home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py", line 55, in <module>
+    nh4 = float(sys.argv[5])
+                ~~~~~~~~^^^
+IndexError: list index out of range
+
+Input values: ph=8.13, do=8.5, temperature=27.3, salinity=0.00, nh4=, no2=, no3=, ca=, al=, mg=
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/NitrificationReCheck.py 11 11 11 11 11 11 11 11 11 11
+Output: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+Input values: ph=11, do=11, temperature=11, salinity=11, nh4=11, no2=11, no3=11, ca=11, al=11, mg=11

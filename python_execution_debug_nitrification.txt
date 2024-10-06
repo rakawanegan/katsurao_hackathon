@@ -1,0 +1,12 @@
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor_nitrification.py 8.13 0.00 27.3 8.5 1 1 1 300 1 1 '5YKZ6ICDdGVzdO+8gSAo5LqM5a6u5qu76LyUKQ=='
+Encoded Notes: 5YKZ6ICDdGVzdO+8gSAo5LqM5a6u5qu76LyUKQ==
+Original Notes: 備考test！ (二宮櫻輔)
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor_nitrification.py 8.3 8.5 27.3 0.00 1 2 3 4 5 6 'ciAo44Gf44G+44GT44KNKQ=='
+Encoded Notes: ciAo44Gf44G+44GT44KNKQ==
+Original Notes: r (たまころ)
+Output: 
+Command: /home/xs29345872/miniconda3/envs/katsupy/bin/python /home/xs29345872/globalsteptest.com/public_html/katsurao/AquaMonitor_nitrification.py 11 11 11 11 11 11 11 11 11 11 'c3Nzc3MgKFVua25vd24gVXNlcik='
+Encoded Notes: c3Nzc3MgKFVua25vd24gVXNlcik=
+Original Notes: sssss (Unknown User)
+Output: 
